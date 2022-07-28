@@ -1,4 +1,4 @@
-const sum = require('../../src/utils/sum')
+import sum from 'utils/sum';
 
 describe('test sum', () => {
   it('两数之和', () => {
