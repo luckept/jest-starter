@@ -1,55 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1658978830214" clover="3.2.0">
-  <project timestamp="1658978830215" name="All files">
-    <metrics statements="40" coveredstatements="40" conditionals="5" coveredconditionals="5" methods="4" coveredmethods="4" elements="49" coveredelements="49" complexity="0" loc="40" ncloc="40" packages="1" files="3" classes="3"/>
-    <file name="getSearchObj.ts" path="D:\Projects\jest-starter\src\utils\getSearchObj.ts">
-      <metrics statements="18" coveredstatements="18" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
-      <line num="2" count="2" type="stmt"/>
-      <line num="3" count="2" type="stmt"/>
-      <line num="4" count="2" type="stmt"/>
-      <line num="5" count="2" type="stmt"/>
-      <line num="6" count="2" type="stmt"/>
-      <line num="7" count="2" type="stmt"/>
-      <line num="8" count="2" type="stmt"/>
-      <line num="9" count="2" type="stmt"/>
-      <line num="10" count="2" type="cond" truecount="1" falsecount="0"/>
-      <line num="11" count="3" type="stmt"/>
-      <line num="12" count="3" type="stmt"/>
-      <line num="13" count="2" type="stmt"/>
-      <line num="14" count="2" type="stmt"/>
-      <line num="15" count="2" type="stmt"/>
-      <line num="16" count="2" type="stmt"/>
-      <line num="17" count="1" type="stmt"/>
-      <line num="18" count="1" type="stmt"/>
-    </file>
-    <file name="storage.ts" path="D:\Projects\jest-starter\src\utils\storage.ts">
-      <metrics statements="17" coveredstatements="17" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+<coverage generated="1658980084507" clover="3.2.0">
+  <project timestamp="1658980084507" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="12" coveredelements="12" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="objToSearchStr.ts" path="D:\Projects\jest-starter\src\utils\objToSearchStr.ts">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
-      <line num="4" count="1" type="cond" truecount="1" falsecount="0"/>
-      <line num="5" count="1" type="stmt"/>
-      <line num="6" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
       <line num="7" count="1" type="stmt"/>
-      <line num="8" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="8" count="1" type="stmt"/>
       <line num="9" count="1" type="stmt"/>
       <line num="10" count="1" type="stmt"/>
       <line num="11" count="1" type="stmt"/>
-      <line num="12" count="1" type="stmt"/>
-      <line num="13" count="1" type="stmt"/>
-      <line num="14" count="1" type="stmt"/>
-      <line num="15" count="1" type="stmt"/>
-      <line num="16" count="1" type="stmt"/>
-      <line num="17" count="1" type="stmt"/>
-    </file>
-    <file name="sum.ts" path="D:\Projects\jest-starter\src\utils\sum.ts">
-      <metrics statements="5" coveredstatements="5" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
-      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
-      <line num="2" count="1" type="stmt"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="4" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
